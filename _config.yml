@@ -1,4 +1,3 @@
-layout_spectrum: 0.909317638957873
 typography_spectrum: 0.16078023612499237
 color:
   brandStrength: 0.8720069311093539
@@ -6,9 +5,11 @@ color:
   saturation: 0.8723541928920895
   rhythmicContrast: 0.4063346735201776
   brandColors:
-    - '#E3E5DF'
-    - '#4E666E'
-    - '#E2E4DE'
-    - '#909EA0'
-    - '#C4CAC8'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.909317638957873
 name: Pure Slo
+title: Glide the Good
