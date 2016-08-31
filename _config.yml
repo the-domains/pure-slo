@@ -1,16 +1,16 @@
-typography_spectrum: 0.16078023612499237
+layout_spectrum: 0.4922838865313679
+typography_spectrum: 0.8257192627061158
 color:
-  brandStrength: 0.8720069311093539
-  lightness: 0.09637522045522928
-  saturation: 0.8723541928920895
-  rhythmicContrast: 0.4063346735201776
+  brandStrength: 0.7608633311465383
+  lightness: 0.334610958583653
+  saturation: 0.22736323438584805
+  rhythmicContrast: 0.31997090904042125
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.909317638957873
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cff3acbb-8f78-46cf-b10c-e7008874681b.jpg
 name: Pure Slo
